@@ -1,5 +1,6 @@
 node_modules/
 dist/
+dist-pages/
 server/data/
 server/admin-key.txt
 *.log
